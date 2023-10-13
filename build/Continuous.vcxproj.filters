@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kevin\Documents\GitHub\image-projecting\build\CMakeFiles\cdb6b9b332e8592c37e3275d7369bfae\Continuous.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kevin\Documents\GitHub\image-projecting\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\kevin\Documents\GitHub\image-projecting\build\CMakeFiles\Continuous" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{692233A1-7A3A-3EC2-ADD3-2FDA288BA291}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
